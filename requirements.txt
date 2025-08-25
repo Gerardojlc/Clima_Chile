@@ -4,12 +4,3 @@ numpy
 requests
 altair
 matplotlib
-
-git init
-git add .
-git commit -m "Primera versión de la app Clima Chile"
-
-git remote add origin https://github.com/Gerardojlc/Clima_Chile.git
-git branch -M main
-git push -u origin main
-
